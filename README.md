@@ -1,1 +1,1 @@
-# Insurance-Prediction--Machine-Learning-model-
+# Insurance_Prediction: Machine-Learning-model
