@@ -1,4 +1,4 @@
-# Insurance_Prediction: Machine-Learning-model
+# Insurance_Prediction: 
 
 Given a Dataset of 1338 people along with their corresponding Insurance Charges
 
